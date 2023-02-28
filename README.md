@@ -156,3 +156,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - **Inserting the value n**
 - **Extracting the root node**
 - **Searching for a node in a binary heap of size n**
+
+# Authors:
+1. George Wambani
+2. Aisha Khalifan
