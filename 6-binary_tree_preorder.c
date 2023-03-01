@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
-* binary_tree_preorder- preorder tree treversal 
+* binary_tree_preorder- preorder tree treversal
 * @tree: root of the tree
 * @func: pointer to a printing func
 * Returns: nothing
